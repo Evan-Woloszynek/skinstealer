@@ -1,4 +1,7 @@
-Dependencies: Node.js
+Dependencies:
+
+Node.js
+
 How to use:
 
 Where <usernames> is a list of Minecraft usernames you want to download the skins of:
